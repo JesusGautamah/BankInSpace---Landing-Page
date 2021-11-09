@@ -1,5 +1,5 @@
-# Rails Docker
-### This repository can be used as template
+# BankInSpace - Landing Page
+### This repository was generated from Rails Docker in: https://github.com/JesusGautamah/rails-docker
 
 Start point for rails development with easy heroku and docker configuration
 
